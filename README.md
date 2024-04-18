@@ -12,7 +12,7 @@ During my university and professional experiences I worked with various librarie
 - Python | C++ | MATLAB | Java
 
 ## Languages
-- Albenian
+- Albanian
 - English
 - Brazilian Portuguese
 - French
