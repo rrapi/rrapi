@@ -12,11 +12,12 @@ During my university and professional experiences I worked with various librarie
 - Python | C++ | MATLAB | Java
 
 ## Languages
+- Italian
 - Albanian
 - English
 - Brazilian Portuguese
-- French
 - Spanish
+- French
   
 ## Publications
 
