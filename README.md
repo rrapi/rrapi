@@ -21,5 +21,5 @@ During my university and professional experiences I worked with various librarie
   
 ## Publications
 
-- Thesis “Robot Control And Plan Execution For Automated Experiments In Industrial Laboratory”, University of Rome La Sapienza.
-- “Modelling automated industrial experiments as incremental diverse AI planning problems”, AIRO-AIXIA 2022.
+- [MSc Thesis](https://github.com/rrapi/Master-Thesis) “Robot Control And Plan Execution For Automated Experiments In Industrial Laboratory”, University of Rome La Sapienza.
+- [Paper](https://github.com/rrapi/AIRO-AIxIA-2022) “Modelling automated industrial experiments as incremental diverse AI planning problems”, AIRO-AIXIA 2022.
